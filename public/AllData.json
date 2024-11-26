@@ -1,0 +1,263 @@
+[
+    {
+      "id": 1,
+      "adventureTitle": "Amazon Rainforest Trek",
+      "image": "https://i.ibb.co.com/LxGzd7h/1000-F-162917341-ugb-DXh-Rp-QPJCy3-Nvno-QPQp-WJWHYvqmaa.jpg",
+      "categoryName": "Jungle Exploration",
+      "shortDescription": "Discover the heart of the Amazon with a guided eco-trek.",
+      "adventureCost": 1500,
+      "bookingAvailability": "Available",
+      "location": "Amazon Rainforest, Brazil",
+      "duration": "7 days",
+      "adventureLevel": "Advanced",
+      "includedItems": [
+        "Professional guide",
+        "Camping equipment",
+        "Meals and snacks",
+        "First aid kit"
+      ],
+      "ecoFriendlyFeatures": [
+        "Leave-no-trace camping",
+        "Reusable utensils",
+        "Eco-friendly transportation"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Pack lightweight clothing",
+        "Bring mosquito repellent",
+        "Prepare for rain"
+      ]
+    },
+    {
+      "id": 2,
+      "adventureTitle": "Coral Reef Diving",
+      "image": "https://i.ibb.co.com/pbB8S8L/near-to-india-thailand-770x433.jpg",
+      "categoryName": "Marine Exploration",
+      "shortDescription": "Dive into the vibrant world of coral reefs while learning conservation techniques.",
+      "adventureCost": 1200,
+      "bookingAvailability": "Limited slots",
+      "location": "Great Barrier Reef, Australia",
+      "duration": "5 days",
+      "adventureLevel": "Intermediate",
+      "includedItems": [
+        "Diving gear",
+        "Safety training",
+        "Marine biologist guide",
+        "Meals on the boat"
+      ],
+      "ecoFriendlyFeatures": [
+        "Sunscreen-free diving zones",
+        "Marine life awareness sessions",
+        "Sustainable diving practices"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Must have basic diving certification",
+        "Avoid touching coral",
+        "Stay hydrated"
+      ]
+    },
+    {
+      "id": 3,
+      "adventureTitle": "Desert Camel Safari",
+      "image": "https://i.ibb.co.com/0V50ZBM/m-leh-landscape-l-400-640.jpg",
+      "categoryName": "Desert Adventures",
+      "shortDescription": "Experience the serene beauty of the desert on a sustainable camel safari.",
+      "adventureCost": 800,
+      "bookingAvailability": "Available",
+      "location": "Thar Desert, India",
+      "duration": "3 days",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Camel guide",
+        "Tented accommodation",
+        "Local meals",
+        "Evening campfire"
+      ],
+      "ecoFriendlyFeatures": [
+        "Solar-powered lights",
+        "Locally sourced food",
+        "No plastic policy"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+        "Wear sunblock and a hat",
+        "Carry reusable water bottles",
+        "Avoid disturbing wildlife"
+      ]
+    },
+    {
+      "id": 4,
+      "adventureTitle": "Himalayan Snow Trek",
+      "image": "https://i.ibb.co.com/12yGLHL/beautiful-nature-india-1-1024x768.webp",
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Conquer snowy trails in the Himalayas with our eco-trekking package.",
+      "adventureCost": 1800,
+      "bookingAvailability": "Limited slots",
+      "location": "Himachal Pradesh, India",
+      "duration": "10 days",
+      "adventureLevel": "Expert",
+      "includedItems": [
+        "Trekking gear",
+        "Warm sleeping bags",
+        "Experienced guides",
+        "Nutritious meals"
+      ],
+      "ecoFriendlyFeatures": [
+        "Eco-friendly accommodation",
+        "Waste management system",
+        "Reusable water bottles"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Prepare for cold temperatures",
+        "Carry energy bars",
+        "Ensure you are physically fit"
+      ]
+    },
+    {
+      "id": 5,
+      "adventureTitle": "Kayaking in Mangroves",
+      "image": "https://i.ibb.co.com/51cNqZV/Kayakers-On-Humber-2.webp",
+      "categoryName": "Water Adventures",
+      "shortDescription": "Explore the mangroves and learn about their crucial role in the ecosystem.",
+      "adventureCost": 400,
+      "bookingAvailability": "Available",
+      "location": "Sundarbans, Bangladesh",
+      "duration": "1 day",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Kayak and safety gear",
+        "Professional guide",
+        "Snacks and refreshments"
+      ],
+      "ecoFriendlyFeatures": [
+        "No-motor zones",
+        "Wildlife observation ethics",
+        "Biodegradable gear"
+      ],
+      "maxGroupSize": 6,
+      "specialInstructions": [
+        "Wear light, water-resistant clothing",
+        "Avoid loud noises",
+        "Respect wildlife habitats"
+      ]
+    },
+    {
+      "id": 6,
+      "adventureTitle": "Alpine Forest Retreat",
+      "image": "https://i.ibb.co.com/CJMxn8k/The-Giant-Swingin-Rishikesh.jpg",
+      "categoryName": "Forest Retreats",
+      "shortDescription": "Relax and rejuvenate in the serene alpine forests.",
+      "adventureCost": 1000,
+      "bookingAvailability": "Available",
+      "location": "Swiss Alps, Switzerland",
+      "duration": "4 days",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Private cabin stay",
+        "Nature walk guide",
+        "Organic meals",
+        "Yoga sessions"
+      ],
+      "ecoFriendlyFeatures": [
+        "Solar-powered cabins",
+        "Farm-to-table dining",
+        "Zero waste policy"
+      ],
+      "maxGroupSize": 5,
+      "specialInstructions": [
+        "Carry warm clothing",
+        "Wear comfortable hiking boots",
+        "Disconnect from electronics"
+      ]
+    },
+    {
+      "id": 7,
+      "adventureTitle": "Volcanic Crater Expedition",
+      "image": "https://i.ibb.co.com/fSzM4RF/Cl-Lmovw-WMAAf-XV3.jpg",
+      "categoryName": "Adventure Expeditions",
+      "shortDescription": "Hike to the edge of active volcanic craters with experienced guides.",
+      "adventureCost": 1100,
+      "bookingAvailability": "Limited slots",
+      "location": "Big Island, Hawaii, USA",
+      "duration": "3 days",
+      "adventureLevel": "Advanced",
+      "includedItems": [
+        "Experienced guide",
+        "Safety gear",
+        "Meals and refreshments",
+        "Accommodation"
+      ],
+      "ecoFriendlyFeatures": [
+        "Carbon offset contribution",
+        "Eco-friendly hiking gear",
+        "Wildlife education sessions"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Prepare for high heat",
+        "Carry sufficient water",
+        "Follow safety guidelines strictly"
+      ]
+    },
+    {
+      "id": 8,
+      "adventureTitle": "Arctic Wildlife Safari",
+      "image": "https://i.ibb.co.com/G0YQS9K/Adventure-River-Attractions-Water-Country-2.jpg",
+      "categoryName": "Wildlife Safaris",
+      "shortDescription": "Explore the Arctic wilderness and witness polar bears in their natural habitat.",
+      "adventureCost": 2500,
+      "bookingAvailability": "Limited slots",
+      "location": "Svalbard, Norway",
+      "duration": "6 days",
+      "adventureLevel": "Intermediate",
+      "includedItems": [
+        "Expert wildlife guide",
+        "Warm clothing and gear",
+        "All meals",
+        "Photography sessions"
+      ],
+      "ecoFriendlyFeatures": [
+        "Electric snowmobiles",
+        "Minimal carbon footprint",
+        "Conservation-focused education"
+      ],
+      "maxGroupSize": 6,
+      "specialInstructions": [
+        "Be prepared for extreme cold",
+        "Respect wildlife boundaries",
+        "Bring binoculars and cameras"
+      ]
+    },
+    {
+      "id": 9,
+      "adventureTitle": "Mediterranean Sailing Adventure",
+      "image": "https://i.ibb.co.com/XxFxbZH/1-beijing-ufo.jpg",
+      "categoryName": "Sea Voyages",
+      "shortDescription": "Sail the Mediterranean coast while practicing sustainable travel.",
+      "adventureCost": 2000,
+      "bookingAvailability": "Available",
+      "location": "Santorini, Greece",
+      "duration": "5 days",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Skipper and crew",
+        "Meals on board",
+        "Snorkeling gear",
+        "Eco-friendly travel kit"
+      ],
+      "ecoFriendlyFeatures": [
+        "Wind-powered sailing",
+        "Sustainable fishing practices",
+        "Plastic-free policies"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+        "Pack light and breathable clothing",
+        "Avoid single-use plastics",
+        "Bring swimwear and sunscreen"
+      ]
+    }
+  ]
+  
